@@ -1,2 +1,8 @@
-# HEstate-A-Real-Estate-Website
-Project Description:  This repository houses a simple yet visually engaging front-end website built using React.js, enriched with smooth animations thanks to the AOS (Animate On Scroll) library. SCSS (Sassy CSS) was used for a clean and maintainable styling approach, while React Icons Library added a touch of elegance to the interface.  
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
